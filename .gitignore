@@ -1,0 +1,20 @@
+# Secretos: NUNCA subir el token
+.env
+token.txt
+*.token
+secretos*
+
+# Datos generados en la ejecucion
+historial_predicciones.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
